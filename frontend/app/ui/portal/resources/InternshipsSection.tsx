@@ -42,7 +42,7 @@ export default function Page() {
     <div className="mx-auto max-w-7xl px-6 lg:px-8 py-8">
       <div className="mx-auto max-w-4xl divide-y divide-gray-900/10">
         <h2 className="text-2xl font-bold leading-10 tracking-tight text-gray-900">
-          Tech Internship Opportunities
+          Internship Opportunities
         </h2>
         <dl className="mt-10 space-y-6 divide-y divide-gray-900/10">
           {items.map((item) => (
